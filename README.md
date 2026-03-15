@@ -134,7 +134,7 @@ Datasets for training or generating steering vectors.
 | Tool | Description | Link |
 |---|---|---|
 | [rotalabs-steer](https://pypi.org/project/rotalabs-steer/) | pip-installable library for applying steering vectors (Qwen3, Mistral, Gemma-2) | [HF](https://huggingface.co/rotalabs/steering-vectors) |
-| [psyctl](https://github.com/ho4040/psyctl) | CLI tool for LLM personality steering using CAA and BiPO methods | [GitHub](https://github.com/ho4040/psyctl) |
+| [psyctl](https://github.com/modulabs-personalab/psyctl) | CLI tool for LLM personality steering using CAA and BiPO methods | [GitHub](https://github.com/modulabs-personalab/psyctl) |
 | [llama.cpp](https://github.com/ggerganov/llama.cpp) | Supports GGUF control vectors natively via `--control-vector` flag | [GitHub](https://github.com/ggerganov/llama.cpp) |
 | [repeng](https://github.com/vgel/repeng) | Representation engineering library for extracting and applying control vectors | [GitHub](https://github.com/vgel/repeng) |
 | [ExLlamaV2](https://github.com/turboderp/exllamav2) | Supports control vectors via wrapper | [HF](https://huggingface.co/llmixer/ExllamaV2-Control-Vectors) |
