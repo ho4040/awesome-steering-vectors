@@ -153,6 +153,7 @@ Foundational and related research papers on activation steering.
 | [Evaluating and Inducing Personality in Pre-trained Language Models](https://arxiv.org/abs/2206.07550) | 2022 | P2 - Personality prompts for LLMs |
 | [Activation Addition: Steering Language Models Without Optimization](https://arxiv.org/abs/2308.10248) | 2023 | ActAdd - Algebraic activation steering |
 | [Detecting the Disturbance: A Nuanced View of Introspective Abilities in LLMs](https://arxiv.org/abs/2512.12411) | 2025 | Introspection steering vectors |
+| [Beyond Linear Activation Steering: Invertible Latent Transformations for Controlling LLM Behavior](https://arxiv.org/abs/2606.08454) | 2026 | INNSteer - Nonlinear steering via a latent translation in an invertible network's latent space, NeurIPS 2026 Spotlight ([code](https://github.com/nguyentuc/INNSteer)) |
 
 ---
 
